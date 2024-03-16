@@ -19,21 +19,29 @@ Kelas mahasiswa memiliki beberapa atribut, yaitu nim, nama, jenis kelamin, dan g
     - deleteData(): Method untuk menghapus data dari list mahasiswa dan mengupdate tabel.
     - clearForm(): Method untuk membersihkan isi formulir setelah penambahan, pembaharuan, atau penghapusan data.
 
+<br/>
+
 # DOKUMENTASI HASIL PROGRAM
 ### Tampilan Awal
 ![output](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/657f8dcc-a99e-4023-906f-d96628ef2c76)
 
 ![goldar](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/58161350-6c4b-4659-9d0e-d14f16e82b9f)
 
+<br/>
+
 ### Insert Data
 ![insert](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/f89c7f6d-8b38-48e3-aef8-256f502a804b)
 
 ![insertberhasil](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/103061ba-e4d4-48f1-a9f6-4c540e13ed13)
 
+<br/>
+
 ### Update Data
 ![update](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/54938454-8aa7-47d0-bb33-de4a6ba41019)
 
 ![updateberhasil](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/6c2c198a-0634-478f-9fd4-ab3b1ab4e262)
+
+<br/>
 
 ### Delete Data
 ![confirmdelete](https://github.com/rifasania/LP5DPBO2024C1/assets/134931500/047bd1ce-0565-4a78-8a33-52644638ae17)
